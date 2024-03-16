@@ -1,0 +1,3 @@
+# The Ray Trace Challenge
+
+Implementing the ray trace in rust expecting to learn some modern and cool stuff...
